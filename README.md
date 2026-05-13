@@ -7,13 +7,7 @@ Modern developer portfolio built using Next.js, TypeScript, Tailwind CSS, and Fr
 # Live Demo
 
 ```txt
-Add your Vercel deployment link here
-```
-
-Example:
-
-```txt
-https://aslam-portfolio.vercel.app
+https://aslam-portfolio-jet.vercel.app/
 ```
 
 ---
@@ -50,17 +44,41 @@ https://aslam-portfolio.vercel.app
 
 AI-powered property pricing platform using ML, geospatial intelligence, and real estate analytics.
 
+```txt
+https://ai-rental-pricing-platform.vercel.app/
+```
+
+---
+
 ## AI Resume Analyzer
 
 Resume analysis platform using NLP and GenAI to score resumes and provide optimization suggestions.
+
+```txt
+https://ai-resume-analyzer-3p8u.onrender.com/
+```
+
+---
 
 ## Journal App
 
 Full-stack journaling application with authentication and markdown support.
 
+```txt
+https://journalf.onrender.com/
+```
+
+---
+
 ## Tasks Inbox Platform
 
 Task and productivity management platform for organizing workflows and priorities.
+
+```txt
+https://tasks-inbox-platform.vercel.app/
+```
+
+---
 
 ## DeFi Lending Protocol
 
@@ -116,17 +134,29 @@ public/
 
 # Contact
 
+## Portfolio
+
+```txt
+https://aslam-portfolio-jet.vercel.app/
+```
+
+---
+
 ## LinkedIn
 
 ```txt
 https://www.linkedin.com/in/aslam-kureshi-794090222/
 ```
 
+---
+
 ## GitHub
 
 ```txt
 https://github.com/aslam8801
 ```
+
+---
 
 ## Email
 
