@@ -1,36 +1,147 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Aslam Kureshi — Developer Portfolio
 
-## Getting Started
+Modern developer portfolio built using Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
-First, run the development server:
+---
+
+# Live Demo
+
+```txt
+Add your Vercel deployment link here
+```
+
+Example:
+
+```txt
+https://aslam-portfolio.vercel.app
+```
+
+---
+
+# Tech Stack
+
+- Next.js 15
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- shadcn/ui
+- Lucide Icons
+- next-themes
+
+---
+
+# Features
+
+- Modern responsive UI
+- Dark / Light theme support
+- Animated hero section
+- Projects showcase
+- Skills section
+- Contact section
+- Smooth scrolling
+- Framer Motion animations
+- Recruiter-friendly design
+
+---
+
+# Projects Included
+
+## AI Rental Pricing System
+
+AI-powered property pricing platform using ML, geospatial intelligence, and real estate analytics.
+
+## AI Resume Analyzer
+
+Resume analysis platform using NLP and GenAI to score resumes and provide optimization suggestions.
+
+## Journal App
+
+Full-stack journaling application with authentication and markdown support.
+
+## Tasks Inbox Platform
+
+Task and productivity management platform for organizing workflows and priorities.
+
+## DeFi Lending Protocol
+
+Decentralized lending protocol built on SOON Decoupled SVM architecture.
+
+---
+
+# Installation
+
+Clone repository:
+
+```bash
+git clone https://github.com/aslam8801/aslam-portfolio.git
+```
+
+Move into project:
+
+```bash
+cd aslam-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```txt
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# Folder Structure
 
-To learn more about Next.js, take a look at the following resources:
+```txt
+app/
+components/
+data/
+lib/
+public/
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# Contact
 
-## Deploy on Vercel
+## LinkedIn
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```txt
+https://www.linkedin.com/in/aslam-kureshi-794090222/
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## GitHub
+
+```txt
+https://github.com/aslam8801
+```
+
+## Email
+
+```txt
+aslamkureshi2601@gmail.com
+```
+
+---
+
+# Deployment
+
+This portfolio is deployed using Vercel.
+
+---
+
+# License
+
+MIT License
